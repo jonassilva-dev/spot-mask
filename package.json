@@ -1,7 +1,7 @@
 {
   "name": "spot-mask",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pacotes de formatação de números brasileiros, como data, cep, etc.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
